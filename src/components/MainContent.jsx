@@ -3,14 +3,15 @@ function MainContent() {
     <section className="info">
       <h2 className="info--title">About</h2>
       <p className="info--paragraph">
-        I am a frontend developer with a particular interest in making things
-        simple and automating daily tasks. I try to keep up with security and
-        best practices, and am always looking for new things to learn.
+        I am a PhD candidate in Sociology who is also interested in Frontend
+        Development, particularly Rect. I started programming to develop
+        personal projects. I also built a full-stack app and want to know more
+        about Node.js and authentication.
       </p>
       <h2 className="info--title">Interests</h2>
       <p className="info--paragraph">
-        Food expert. Music scholar. Reader. Internet fanatic. Bacon buff.
-        Entrepreneur. Travel geek. Pop culture ninja. Coffee fanatic.
+        Daily cyclist. Avid reader. Antifa. Transfeminist. Food lover. Slow
+        travel.
       </p>
     </section>
   );
